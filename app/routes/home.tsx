@@ -9,7 +9,7 @@ import { useEffect } from "react";
 
 export function meta({ }: Route.MetaArgs) {
   return [
-    { title: "Resume Mind" },
+    { title: "Resuming - AI Resume Analyzer" },
     { name: "description", content: "Smart Feedback for Your Resume!" },
   ];
 }
